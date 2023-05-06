@@ -1,0 +1,15 @@
+.counter-flex-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.counter-width-div{
+    width: 100%;
+}
+.counter-main-div{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+}
